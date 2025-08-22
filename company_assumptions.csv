@@ -1,6 +1,0 @@
-parameter,value
-capex_initial_musd,50.0
-fixed_costs_annual_musd,12.0
-variable_cost_pct_revenue,0.45
-discount_rate,0.12
-tax_rate,0.25
