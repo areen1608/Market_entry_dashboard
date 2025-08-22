@@ -1,0 +1,19 @@
+industry,market,year,tam_billion_usd,sam_billion_usd,target_som_billion_usd
+Consumer Electronics,India,2019,35.0,21.0,0.42
+Consumer Electronics,India,2020,39.37,23.62,0.94
+Consumer Electronics,India,2021,44.17,26.5,1.59
+Consumer Electronics,India,2022,49.69,29.81,2.39
+Consumer Electronics,India,2023,55.53,33.32,3.33
+Consumer Electronics,India,2024,61.84,37.1,4.45
+Consumer Electronics,Germany,2019,28.0,16.8,0.34
+Consumer Electronics,Germany,2020,28.6,17.16,0.69
+Consumer Electronics,Germany,2021,30.31,18.19,1.09
+Consumer Electronics,Germany,2022,31.77,19.06,1.52
+Consumer Electronics,Germany,2023,34.12,20.47,2.05
+Consumer Electronics,Germany,2024,35.57,21.34,2.56
+Consumer Electronics,Brazil,2019,22.0,13.2,0.26
+Consumer Electronics,Brazil,2020,22.92,13.75,0.55
+Consumer Electronics,Brazil,2021,24.71,14.83,0.89
+Consumer Electronics,Brazil,2022,27.53,16.52,1.32
+Consumer Electronics,Brazil,2023,29.52,17.71,1.77
+Consumer Electronics,Brazil,2024,31.35,18.81,2.26
